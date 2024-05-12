@@ -1,0 +1,41 @@
+h1 {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 25%;
+}
+
+.article {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+
+.search-iata {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.search-flight {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.search-field-iata {
+    width: 25%;
+}
+
+.search-field-flight {
+    width: 30%;
+}
